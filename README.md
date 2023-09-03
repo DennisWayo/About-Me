@@ -5,13 +5,13 @@ Energy, Machine Learning & CFD Analyst
 My focuses are on text-image-driven Machine Learning and fluid simulation prognosis applications to optimize fossil fuel and hydrogen production and storage. While concentrating on R&D planning, I have six years of rich technical research experience in experimental and numerical approximation analysis. My research interests include drilling and completions, hydraulic fracturing, matrix acidizing, carbon capture, hydrogen production, and storage.
 
 ## Education
-PhD Student, Chemical Engineering, Universiti Malaysia Pahang, 2026
+- PhD Student, Chemical Engineering, Universiti Malaysia Pahang, 2026
 
-MSc, Petroleum Engineering, Nazarbayev University, 2022
+- MSc, Petroleum Engineering, Nazarbayev University, 2022
 
-BSc, Petroleum Engineering, Kwame Nkrumah University of Science and Technology, 2019
+- BSc, Petroleum Engineering, Kwame Nkrumah University of Science and Technology, 2019
 
-HND, Mechanical Engineering, Tamale Technical University, 2014
+- HND, Mechanical Engineering, Tamale Technical University, 2014
 
 ## Teaching Activity
 Coming soon...
@@ -19,13 +19,13 @@ Coming soon...
 ## Student Supervisory
 Coming soon...
 
-## Project Grant Awarded
+## Research Grant Awarded
 Co-Applicant;
 
 University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing,
 RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
 
-## Other Project Participatory
+## Research Grant Participatory
 Nazarbayev University: Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System,
 $150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
 
