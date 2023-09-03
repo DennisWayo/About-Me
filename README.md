@@ -24,16 +24,16 @@ Coming soon...
 
 ## Research Grant Awarded
 Grant Co-Applicant;
-```
+
 * University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
-RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
-```
+  * RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
+
 ## Research Grant Participatory
 Grad. Research Assistant;
-```
+
 * Nazarbayev University: Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System,
-$150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
-```
+  * $150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
+
 ## Publications
 **Q1 (top 10%)**
 - D. D. K. Wayo, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, 2022, https://doi.org/10.3390/sym14112300 (CS = 4.3)
