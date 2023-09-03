@@ -1,10 +1,10 @@
 # Dennis Wayo
-Energy & Machine Learning
+Energy, Machine Learning & CFD Analyst
 
-# Bio
+## Bio
 My focuses are on text-image-driven Machine Learning and fluid simulation prognosis applications to optimize fossil fuel and hydrogen production and storage. While concentrating on R&D planning, I have six years of rich technical research experience in experimental and numerical approximation analysis. My research interests include drilling and completions, hydraulic fracturing, matrix acidizing, carbon capture, hydrogen production, and storage.
 
-# Education
+## Education
 PhD Student, Chemical Engineering, Universiti Malaysia Pahang, 2026
 
 MSc, Petroleum Engineering, Nazarbayev University, 2022
@@ -14,3 +14,20 @@ BSc, Petroleum Engineering, Kwame Nkrumah University of Science and Technology, 
 HND, Mechanical Engineering, Tamale Technical University, 2014
 
 ## Publication
+2023
+
+[6] D. D. K. Wayo, S. Irawan, A. Satyanaga, and G. Abbas, “Modelling and Simulating Eulerian Venturi Effect of SBM to Increase the Rate of Penetration with Roller Cone Drilling Bit,” Energies (Basel), vol. 16, no. 10, p. 4185, May 2023, doi: 10.3390/en16104185. (CS=5.0) Q1
+
+[5] D. D. K. Wayo, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, 2023, https://doi.org/10.3390/bdcc7020057. (CS = 6.1) Q1
+
+[4] T. Kizayev, S. Irawan, J. A. Khan, S. A. Khan, B. Cai, N. Zeb, and, D. D. K. Wayo, “Factors affecting drilling incidents: Prediction of suck pipe by XGBoost model”. Energy Reports, vol. 9, pp. 270–279, 2023, https://doi.org/10.1016/j.egyr.2023.03.083. (CS = 4.5) Q2
+
+
+2022
+[3] D. D. K. Wayo, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, 2022, https://doi.org/10.3390/sym14112300 (CS = 4.3) Q1 
+
+[2] D. D. K. Wayo, S. Irawan, J. A. Khan, and F. Fitrianti, “CFD Validation for Assessing the Repercussions of Filter Cake Breakers; EDTA and SiO2 on Filter Cake Return Permeability,” Applied Artificial Intelligence, vol. 36, no. 1, 2022, https://doi.org/10.1080/08839514.2022.2112551 (CS = 3.0) Q3
+
+[1] U. I. Duru, D. D. K. Wayo, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, 2022, [Online]. Available: http://transylvanianreviewjournal.com/index.php/TR/article/view/907  (CS = 0.3) Q2
+
+![image](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/8ed9e44b-382e-484d-9cb3-e2a1471c7254)
