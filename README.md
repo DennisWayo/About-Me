@@ -36,10 +36,10 @@ Grad. Research Assistant;
 
 ## Publications
 **Q1 (top 10%)**
-- D. D. K. Wayo, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, 2022, https://doi.org/10.3390/sym14112300 (CS = 4.3)
+1. D. D. K. Wayo, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, 2022, https://doi.org/10.3390/sym14112300 (CS = 4.3)
 
 **Q1 (top 20%)**
-- D. D. K. Wayo, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, 2023, https://doi.org/10.3390/bdcc7020057. (CS = 6.1)
+1. D. D. K. Wayo, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, 2023, https://doi.org/10.3390/bdcc7020057. (CS = 6.1)
 - D. D. K. Wayo, S. Irawan, A. Satyanaga, and G. Abbas, “Modelling and Simulating Eulerian Venturi Effect of SBM to Increase the Rate of Penetration with Roller Cone Drilling Bit,” Energies (Basel), vol. 16, no. 10, p. 4185, May 2023, doi: 10.3390/en16104185. (CS=5.0)
 
 **Q2**
@@ -47,4 +47,4 @@ Grad. Research Assistant;
 - D. D. K. Wayo, S. Irawan, J. A. Khan, and F. Fitrianti, “CFD Validation for Assessing the Repercussions of Filter Cake Breakers; EDTA and SiO2 on Filter Cake Return Permeability,” Applied Artificial Intelligence, vol. 36, no. 1, 2022, https://doi.org/10.1080/08839514.2022.2112551 (CS = 3.0)
 - U. I. Duru, D. D. K. Wayo, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, 2022, [Online]. Available: http://transylvanianreviewjournal.com/index.php/TR/article/view/907  (CS = 0.3)
 
-![89EF4472-EEF6-45C9-82B4-373F3AE990FA](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018)
+![Figures from Computational Optimization](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018)
