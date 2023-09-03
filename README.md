@@ -37,6 +37,10 @@ Grad. Research Assistant;
 * Nazarbayev University: Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System,
   * $150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
 
+## Journal Roles
+- **Peer Reviewer**
+  - Joirnal of Petroleum Exploration and Production Technology 
+
 ## Publications
 **Q1 (top 10%)**
 <sup>*</sup> Corresponding Author
