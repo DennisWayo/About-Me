@@ -22,10 +22,12 @@ Coming soon...
 ## Project Grant Awarded
 Co-Applicant;
 
-Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
+University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing,
+RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
 
 ## Other Project Participatory
-Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System
+Nazarbayev University: Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System,
+$150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
 
 ## Publication
 2023
