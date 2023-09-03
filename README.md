@@ -13,6 +13,20 @@ BSc, Petroleum Engineering, Kwame Nkrumah University of Science and Technology, 
 
 HND, Mechanical Engineering, Tamale Technical University, 2014
 
+## Teaching Activity
+Coming soon...
+
+## Student Supervisory
+Coming soon...
+
+## Project Grant Awarded
+Co-Applicant;
+
+Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
+
+## Other Project Participatory
+Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System
+
 ## Publication
 2023
 
@@ -21,7 +35,6 @@ HND, Mechanical Engineering, Tamale Technical University, 2014
 [5] D. D. K. Wayo, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, 2023, https://doi.org/10.3390/bdcc7020057. (CS = 6.1) Q1
 
 [4] T. Kizayev, S. Irawan, J. A. Khan, S. A. Khan, B. Cai, N. Zeb, and, D. D. K. Wayo, “Factors affecting drilling incidents: Prediction of suck pipe by XGBoost model”. Energy Reports, vol. 9, pp. 270–279, 2023, https://doi.org/10.1016/j.egyr.2023.03.083. (CS = 4.5) Q2
-
 
 2022
 
