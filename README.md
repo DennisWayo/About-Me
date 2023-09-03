@@ -37,6 +37,7 @@ $150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
 - D. D. K. Wayo, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, 2022, https://doi.org/10.3390/sym14112300 (CS = 4.3)
 
 **Q1 (top 20%)**
+
 -D. D. K. Wayo, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, 2023, https://doi.org/10.3390/bdcc7020057. (CS = 6.1)
 - D. D. K. Wayo, S. Irawan, A. Satyanaga, and G. Abbas, “Modelling and Simulating Eulerian Venturi Effect of SBM to Increase the Rate of Penetration with Roller Cone Drilling Bit,” Energies (Basel), vol. 16, no. 10, p. 4185, May 2023, doi: 10.3390/en16104185. (CS=5.0)
 
