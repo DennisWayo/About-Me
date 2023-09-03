@@ -61,7 +61,10 @@ Coming soon...
 
 <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" width="30%" height=" 30%"/>
 
-![Figures from Computational Optimization](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018)
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" width="30%" height=" 30%"/>
+
+
+
 
 ## Contact
 * Phone: +77714140389
