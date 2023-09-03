@@ -1,6 +1,6 @@
 # Dennis Wayo
 Energy, Machine Learning & CFD Analyst
-This is a <sup>superscript</sup> text
+
 [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=57890228100), [Github Code Repository](https://github.com/DennisWayo), [Google Scholar](https://scholar.google.com/citations?user=YCXIi1wAAAAJ&hl=en&authuser=2), [ResearchGate](https://www.researchgate.net/profile/Dennis-Wayo-2).
 
 ## Bio
@@ -36,6 +36,7 @@ Grad. Research Assistant;
 
 ## Publications
 **Q1 (top 10%)**
+<sup>wayo</sup> Corresponding Author
 - **D. D. K. Wayo**, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, **2022**, https://doi.org/10.3390/sym14112300 (CS = 4.3)
 
 **Q1 (top 20%)**
