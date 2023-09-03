@@ -63,6 +63,12 @@ Coming soon...
 
 <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" width="30%" height=" 30%"/>
 
+>
+
+
+| Cat pics               | Dog pics               |
+| ---------------------- | ---------------------- |
+| <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" width="30%" height=" 30%"/> | <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" width="30%" height=" 30%"/> |
 
 
 
