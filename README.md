@@ -34,10 +34,10 @@ Coming soon...
 **Grad. Research Assistant;**
 
 * Nazarbayev University: IoT-based Sensing Technology for Real Time Identification of Unsaturated Soil Properties for Anticipation against Climate Change
-   * $500,000 CRP Grant Project Status: Ongoing, 2022-2024.
+   * $500,000 [CRP Grant Project](https://research.nu.edu.kz/en/projects/iot-based-sensing-technology-for-real-time-identification-of-hydr) Status: Ongoing, 2022-2024.
 
 * Nazarbayev University: Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System,
-  * $150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
+  * $150,000 [FDCRGP Grant Project](https://research.nu.edu.kz/en/projects/optimization-of-filter-cake-removal-using-nano-particles-in-synth) Status: Completed, 2020–2022.
 
 ## Journal Roles
 - **Peer Reviewer**
