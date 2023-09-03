@@ -1,10 +1,4 @@
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" align="left" width="50%" height="50%"/>
-
-
-
-
-
-
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" align="right" width="50%" height="50%"/>
 
 # Dennis Wayo
 Energy, Machine Learning & CFD Analyst
