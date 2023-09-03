@@ -44,7 +44,7 @@ Grad. Research Assistant;
 
 **Q1 (top 20%)**
 - **D. D. K. Wayo**, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, **2023**, https://doi.org/10.3390/bdcc7020057. (CS = 6.1)
-- **D. D. K. Wayo**, S. Irawan, A. Satyanaga, and G. Abbas, “Modelling and Simulating Eulerian Venturi Effect of SBM to Increase the Rate of Penetration with Roller Cone Drilling Bit,” Energies (Basel), vol. 16, no. 10, p. 4185, May **2023**, doi: 10.3390/en16104185. (CS=5.0)
+- **D. D. K. Wayo**, S. Irawan, A. Satyanaga, and G. Abbas, “Modelling and Simulating Eulerian Venturi Effect of SBM to Increase the Rate of Penetration with Roller Cone Drilling Bit,” Energies (Basel), vol. 16, no. 10, p. 4185, May **2023**, https://doi.org/10.3390/en16104185. (CS=5.0)
 
 **Q2**
 - T. Kizayev, S. Irawan, J. A. Khan, S. A. Khan, B. Cai, N. Zeb, and, **D. D. K. Wayo**, “Factors affecting drilling incidents: Prediction of stuck pipe by XGBoost model”. Energy Reports, vol. 9, pp. 270–279, **2023**, https://doi.org/10.1016/j.egyr.2023.03.083. (CS = 4.5)
