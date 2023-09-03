@@ -1,4 +1,4 @@
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" align="right" width="50%" height="50%"/>
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" align="right" width="60%" height="80%"/>
 
 
 # Dennis Delali Kwesi Wayo
