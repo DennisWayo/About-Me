@@ -1,3 +1,4 @@
+'#000000'
 # Dennis Wayo
 Energy, Machine Learning & CFD Analyst
 
@@ -22,10 +23,9 @@ Coming soon...
 Coming soon...
 
 ## Research Grant Awarded
-Co-Applicant;
+Grant Co-Applicant;
 
-* University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing,
-RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
+* University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir FracturingRM 207,000 FRGS 2023-1: Ongoing, 2024–2026
 
 ## Research Grant Participatory
 Grad. Research Assistant;
