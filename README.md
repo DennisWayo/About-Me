@@ -46,7 +46,7 @@ Grad. Research Assistant;
 ## Publications
 **Q1 (top 10%)**
 <sup>*</sup> Corresponding Author
-- **D. D. K. Wayo**<sup>*</sup>, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, **2022**, https://doi.org/10.3390/sym14112300 (CS = 4.3)
+- **D. D. K. Wayo**<sup>*</sup>, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, **2022**, [https://doi.org/10.3390/sym14112300](https://doi.org/10.3390/sym14112300) (CS = 4.3)
 
 **Q1 (top 20%)**
 - **D. D. K. Wayo**, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, **2023**, https://doi.org/10.3390/bdcc7020057. (CS = 6.1)
