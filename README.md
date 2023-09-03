@@ -57,3 +57,8 @@ Grad. Research Assistant;
 
 ### Computational Analysis
 ![Figures from Computational Optimization](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018)
+
+## Contact
+* Phone: +77714140389
+* Email: iwayoden@gmail.com
+* Address: Astana, Kazakhstan.
