@@ -1,7 +1,7 @@
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" align="center" width="50%" height="50%"/>
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" align="right" width="50%" height="50%"/>
 
 
-# Dennis Wayo
+# Dennis Delali Kwesi Wayo
 Energy, Machine Learning & CFD Analyst
 
 [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=57890228100), [Github Code Repository](https://github.com/DennisWayo), [Google Scholar](https://scholar.google.com/citations?user=YCXIi1wAAAAJ&hl=en&authuser=2), [ResearchGate](https://www.researchgate.net/profile/Dennis-Wayo-2).
