@@ -1,8 +1,8 @@
 # Dennis Wayo
-`#000000`
 Energy, Machine Learning & CFD Analyst
 
 [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=57890228100), [Github Code Repository](https://github.com/DennisWayo), [Google Scholar](https://scholar.google.com/citations?user=YCXIi1wAAAAJ&hl=en&authuser=2), [ResearchGate](https://www.researchgate.net/profile/Dennis-Wayo-2).
+
 ## Bio
 My focuses are on text-image-driven Machine Learning and fluid simulation prognosis applications to optimize fossil fuel and hydrogen production and storage. While concentrating on R&D planning, I have six years of rich technical research experience in experimental and numerical approximation analysis. My research interests include drilling and completions, hydraulic fracturing, matrix acidizing, carbon capture, hydrogen production, and storage.
 
@@ -24,15 +24,16 @@ Coming soon...
 
 ## Research Grant Awarded
 Grant Co-Applicant;
-
-* University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir FracturingRM 207,000 FRGS 2023-1: Ongoing, 2024–2026
-
+```
+* University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
+RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
+```
 ## Research Grant Participatory
 Grad. Research Assistant;
-
+```
 * Nazarbayev University: Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System,
 $150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
-
+```
 ## Publications
 **Q1 (top 10%)**
 - D. D. K. Wayo, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, 2022, https://doi.org/10.3390/sym14112300 (CS = 4.3)
