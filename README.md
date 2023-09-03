@@ -6,11 +6,8 @@ My focuses are on text-image-driven Machine Learning and fluid simulation progno
 
 ## Education
 - PhD Student, Chemical Engineering, Universiti Malaysia Pahang, 2026
-
 - MSc, Petroleum Engineering, Nazarbayev University, 2022
-
 - BSc, Petroleum Engineering, Kwame Nkrumah University of Science and Technology, 2019
-
 - HND, Mechanical Engineering, Tamale Technical University, 2014
 
 ## Teaching Activity
@@ -22,11 +19,11 @@ Coming soon...
 ## Research Grant Awarded
 Co-Applicant;
 
-University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing,
+* University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing,
 RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
 
 ## Research Grant Participatory
-Nazarbayev University: Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System,
+* Nazarbayev University: Optimization of Filter Cake Removal Using Nanoparticles in Synthetic-Based Mud Drill-In Fluid (SBMDIF) System,
 $150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
 
 ## Publication
