@@ -1,5 +1,5 @@
-'#000000'
-# Dennis Wayo
+
+rgb(Dennis Wayo)
 Energy, Machine Learning & CFD Analyst
 
 [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=57890228100), [Github Code Repository](https://github.com/DennisWayo), [Google Scholar](https://scholar.google.com/citations?user=YCXIi1wAAAAJ&hl=en&authuser=2), [ResearchGate](https://www.researchgate.net/profile/Dennis-Wayo-2).
