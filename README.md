@@ -9,10 +9,10 @@ Energy, Machine Learning & CFD Analyst
 My focuses are on text-image-driven Machine Learning and fluid simulation prognosis applications to optimize fossil fuel and hydrogen production and storage. While concentrating on R&D planning, I have six years of rich technical research experience in experimental and numerical approximation analysis. My research interests include drilling and completions, hydraulic fracturing, matrix acidizing, carbon capture, hydrogen production, and storage.
 
 ## Education
-- PhD Student, Chemical Engineering, Universiti Malaysia Pahang, 2026
-- MSc, Petroleum Engineering, Nazarbayev University, 2022
-- BSc, Petroleum Engineering, Kwame Nkrumah University of Science and Technology, 2019
-- HND, Mechanical Engineering, Tamale Technical University, 2014
+- PhD Student, Chemical Engineering, [Universiti Malaysia Pahang](https://www.ump.edu.my/en), 2026
+- MSc, Petroleum Engineering, [Nazarbayev University](https://nu.edu.kz/), 2022
+- BSc, Petroleum Engineering, [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/), 2019
+- HND, Mechanical Engineering, [Tamale Technical University](https://tatu.edu.gh/hnd-programmes/), 2014
 
 ## Skill
 CMG • Pipesim • ANSYS CFX • Discrete Element Method • Partial Differential Equations • Aspen HYSYS • Aspen Plus • TensorFlow Developer • Dynamic Mode Decomposition •
