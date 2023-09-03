@@ -47,5 +47,5 @@ Grad. Research Assistant;
 - D. D. K. Wayo, S. Irawan, J. A. Khan, and F. Fitrianti, “CFD Validation for Assessing the Repercussions of Filter Cake Breakers; EDTA and SiO2 on Filter Cake Return Permeability,” Applied Artificial Intelligence, vol. 36, no. 1, 2022, https://doi.org/10.1080/08839514.2022.2112551 (CS = 3.0)
 - U. I. Duru, D. D. K. Wayo, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, 2022, [Online]. Available: http://transylvanianreviewjournal.com/index.php/TR/article/view/907  (CS = 0.3)
 
-### Figures from Computational Optimization
+### Figures from Published Computational Analysis
 ![Figures from Computational Optimization](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018)
