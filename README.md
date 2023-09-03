@@ -46,4 +46,4 @@ $150,000 FDCRGP Grant Project Status: Completed, 2020–2022.
 
 [1] U. I. Duru, D. D. K. Wayo, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, 2022, [Online]. Available: http://transylvanianreviewjournal.com/index.php/TR/article/view/907  (CS = 0.3) Q2
 
-
+![89EF4472-EEF6-45C9-82B4-373F3AE990FA](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018)
