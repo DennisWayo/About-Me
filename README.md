@@ -9,7 +9,7 @@ Energy, Machine Learning & CFD Analyst
 My focuses are on text-image-driven Machine Learning and fluid simulation prognosis applications to optimize fossil fuel and hydrogen production and storage. While concentrating on R&D planning, I have six years of rich technical research experience in experimental and numerical approximation analysis. My research interests include drilling and completions, hydraulic fracturing, matrix acidizing, carbon capture, hydrogen production, and storage.
 
 ## Education
-- PhD Student, Chemical Engineering, [Universiti Malaysia Pahang](https://www.ump.edu.my/en), 2026
+- PhD Student, Chemical Engineering, [Universiti Malaysia Pahang Al-Sultan Abdullah](https://www.ump.edu.my/en), 2026
 - MSc, Petroleum Engineering, [Nazarbayev University](https://nu.edu.kz/), 2022
 - BSc, Petroleum Engineering, [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/), 2019
 - HND, Mechanical Engineering, [Tamale Technical University](https://tatu.edu.gh/hnd-programmes/), 2014
@@ -27,7 +27,7 @@ Coming soon...
 ## Research Grant Awarded
 **Grant Co-Applicant;**
 
-* University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
+* Universiti Malaysia Pahang Al-Sultan Abdullah: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
   * RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
 
 ## Research Grant Participatory
@@ -58,6 +58,9 @@ Coming soon...
 - U. I. Duru, **D. D. K. Wayo**, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, **2022**, [Online]. Available: [http://transylvanianreviewjournal.com/index.php/TR/article/view/907](http://transylvanianreviewjournal.com/index.php/TR/article/view/907) (CS = 0.3)
 
 ### Computational Analysis
+
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018" width="30%" height=" 30%"/>
+
 ![Figures from Computational Optimization](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018)
 
 ## Contact
