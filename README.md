@@ -36,8 +36,8 @@ Grad. Research Assistant;
 
 ## Publications
 **Q1 (top 10%)**
-<sup>wayo</sup> Corresponding Author
-- **D. D. K. Wayo**, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, **2022**, https://doi.org/10.3390/sym14112300 (CS = 4.3)
+<sup>*</sup> Corresponding Author
+- **D. D. K. Wayo**<sup>*</sup>, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, **2022**, https://doi.org/10.3390/sym14112300 (CS = 4.3)
 
 **Q1 (top 20%)**
 - **D. D. K. Wayo**, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, **2023**, https://doi.org/10.3390/bdcc7020057. (CS = 6.1)
@@ -45,7 +45,7 @@ Grad. Research Assistant;
 
 **Q2**
 - T. Kizayev, S. Irawan, J. A. Khan, S. A. Khan, B. Cai, N. Zeb, and, **D. D. K. Wayo**, “Factors affecting drilling incidents: Prediction of stuck pipe by XGBoost model”. Energy Reports, vol. 9, pp. 270–279, **2023**, https://doi.org/10.1016/j.egyr.2023.03.083. (CS = 4.5)
-- **D. D. K. Wayo**, S. Irawan, J. A. Khan, and F. Fitrianti, “CFD Validation for Assessing the Repercussions of Filter Cake Breakers; EDTA and SiO2 on Filter Cake Return Permeability,” Applied Artificial Intelligence, vol. 36, no. 1, **2022**, https://doi.org/10.1080/08839514.2022.2112551 (CS = 3.0)
+- **D. D. K. Wayo**<sup>*</sup>, S. Irawan, J. A. Khan, and F. Fitrianti, “CFD Validation for Assessing the Repercussions of Filter Cake Breakers; EDTA and SiO2 on Filter Cake Return Permeability,” Applied Artificial Intelligence, vol. 36, no. 1, **2022**, https://doi.org/10.1080/08839514.2022.2112551 (CS = 3.0)
 - U. I. Duru, **D. D. K. Wayo**, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, **2022**, [Online]. Available: http://transylvanianreviewjournal.com/index.php/TR/article/view/907  (CS = 0.3)
 
 ### Computational Analysis
