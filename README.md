@@ -1,5 +1,6 @@
 # Dennis Wayo
 Energy, Machine Learning & CFD Analyst
+
 [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=57890228100)
 ## Bio
 My focuses are on text-image-driven Machine Learning and fluid simulation prognosis applications to optimize fossil fuel and hydrogen production and storage. While concentrating on R&D planning, I have six years of rich technical research experience in experimental and numerical approximation analysis. My research interests include drilling and completions, hydraulic fracturing, matrix acidizing, carbon capture, hydrogen production, and storage.
