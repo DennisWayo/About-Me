@@ -1,7 +1,4 @@
-<img src="[https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/ed9e3213-7cf6-41ef-b123-7eadd452720f)" align="left" width="50%" height="50%"/>
-
-![IMG_3458](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/27758785-17fa-4b0b-846a-ee74ad4a187a)
-
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" align="left" width="50%" height="50%"/>
 
 # Dennis Wayo
 Energy, Machine Learning & CFD Analyst
