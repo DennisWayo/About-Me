@@ -25,13 +25,13 @@ Coming soon...
 Coming soon...
 
 ## Research Grant Awarded
-Grant Co-Applicant;
+**Grant Co-Applicant;**
 
 * University Malaysia Pahang SA: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
   * RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
 
 ## Research Grant Participatory
-Grad. Research Assistant;
+**Grad. Research Assistant;**
 
 * Nazarbayev University: IoT-based Sensing Technology for Real Time Identification of Unsaturated Soil Properties for Anticipation against Climate Change
    * $500,000 CRP Grant Project Status: Ongoing, 2022-2024.
