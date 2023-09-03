@@ -41,7 +41,7 @@ Grad. Research Assistant;
 
 ## Journal Roles
 - **Peer Reviewer**
-  - Joirnal of Petroleum Exploration and Production Technology 
+  - Journal of Petroleum Exploration and Production Technology 
 
 ## Publications
 **Q1 (top 10%)**
