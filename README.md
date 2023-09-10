@@ -1,4 +1,8 @@
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" align="right" width="40%" height=" 40%"/>
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" width="40%" height=" 40%"/>
+![IMG_7560](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3)
+
+
+
 
 # Dennis Wayo
 Energy, Machine Learning & CFD Analyst
@@ -35,7 +39,7 @@ Coming soon...
 * Universiti Malaysia Pahang Al-Sultan Abdullah: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
   * RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
   * ![IMG_7560](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/355e9771-f425-48e0-a9f8-3ad37ee6ca50)
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/355e9771-f425-48e0-a9f8-3ad37ee6ca50" align="right" width="30%" height=" 30%"/>
+
 
 ## Research Grant Participatory
 **Grad. Research Assistant;**
