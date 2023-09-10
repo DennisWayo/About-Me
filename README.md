@@ -7,7 +7,9 @@ Energy, Machine Learning & CFD Analyst
 
 ## Bio
 My focuses are on text-image-driven Machine Learning and fluid simulation prognosis applications to optimize fossil fuel and hydrogen production and storage. While concentrating on R&D planning, I have six years of rich technical research experience in experimental and numerical approximation analysis. 
+
 **Research Interests**
+
 [Drilling & Completions](https://www.sciencedirect.com/search?qs=Drilling%20and%20completion%20), [Hydraulic Fracturing](https://www.sciencedirect.com/search?qs=Hydraulic%20Fracturing), [Matrix Acidizing](https://www.sciencedirect.com/search?qs=Matrix%20Acidizing), [Carbon Capture](https://www.sciencedirect.com/search?qs=Carbon%20Capture), [Hydrogen Production, and Storage](https://www.sciencedirect.com/search?qs=Hydrogen%20Production).
 
 ## Education
