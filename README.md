@@ -10,7 +10,7 @@ Energy, Machine Learning & CFD Analyst
 ## Bio
 My focuses are on text-image-driven Machine Learning and fluid simulation prognosis applications to optimize fossil fuel and hydrogen production and storage. While concentrating on R&D planning, I have six years of rich technical research experience in experimental and numerical approximation analysis. 
 
-**Research Interests**
+**Research Interest**
 
 [Drilling & Completions](https://www.sciencedirect.com/search?qs=Drilling%20and%20completion%20), [Hydraulic Fracturing](https://www.sciencedirect.com/search?qs=Hydraulic%20Fracturing), [Matrix Acidizing](https://www.sciencedirect.com/search?qs=Matrix%20Acidizing), [Carbon Capture](https://www.sciencedirect.com/search?qs=Carbon%20Capture), [Hydrogen Production, and Storage](https://www.sciencedirect.com/search?qs=Hydrogen%20Production).
 
@@ -36,7 +36,7 @@ Coming soon...
 
 * Universiti Malaysia Pahang Al-Sultan Abdullah: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
   * RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
-  * <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/355e9771-f425-48e0-a9f8-3ad37ee6ca50" width="50%" height=" 50%"/>
+  * <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/355e9771-f425-48e0-a9f8-3ad37ee6ca50" width="70%" height=" 70%"/>
 
 ## Research Grant Participatory
 **Grad. Research Assistant;**
