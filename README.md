@@ -1,5 +1,5 @@
 <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" width="40%" height=" 40%"/>
-![IMG_7560](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3)
+![wapic](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3)
 
 
 
