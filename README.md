@@ -36,7 +36,7 @@ Coming soon...
 
 * Universiti Malaysia Pahang Al-Sultan Abdullah: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
   * RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
-  * <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/355e9771-f425-48e0-a9f8-3ad37ee6ca50" width="40%" height=" 40%"/>
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/355e9771-f425-48e0-a9f8-3ad37ee6ca50" width="40%" height=" 40%"/>
 
 ## Research Grant Participatory
 **Grad. Research Assistant;**
