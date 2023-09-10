@@ -12,15 +12,16 @@ My focuses are on text-image-driven Machine Learning and fluid simulation progno
 
 [Drilling & Completions](https://www.sciencedirect.com/search?qs=Drilling%20and%20completion%20), [Hydraulic Fracturing](https://www.sciencedirect.com/search?qs=Hydraulic%20Fracturing), [Matrix Acidizing](https://www.sciencedirect.com/search?qs=Matrix%20Acidizing), [Carbon Capture](https://www.sciencedirect.com/search?qs=Carbon%20Capture), [Hydrogen Production, and Storage](https://www.sciencedirect.com/search?qs=Hydrogen%20Production).
 
+**Skill**
+
+CMG • Pipesim • ANSYS CFX • Discrete Element Method • Partial Differential Equations • Aspen HYSYS • Aspen Plus • TensorFlow Developer • Dynamic Mode Decomposition •
+Optimization (Mathematical Programming)
+
 ## Education
 - PhD Student, Chemical Engineering, [Universiti Malaysia Pahang Al-Sultan Abdullah](https://www.ump.edu.my/en), 2026
 - MSc, Petroleum Engineering, [Nazarbayev University](https://nu.edu.kz/), 2022
 - BSc, Petroleum Engineering, [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/), 2019
 - HND, Mechanical Engineering, [Tamale Technical University](https://tatu.edu.gh/hnd-programmes/), 2014
-
-## Skill
-CMG • Pipesim • ANSYS CFX • Discrete Element Method • Partial Differential Equations • Aspen HYSYS • Aspen Plus • TensorFlow Developer • Dynamic Mode Decomposition •
-Optimization (Mathematical Programming)
 
 ## Teaching Activity
 Coming soon...
@@ -33,6 +34,8 @@ Coming soon...
 
 * Universiti Malaysia Pahang Al-Sultan Abdullah: Fundamental Study of Florine-Modified Silica Proppants for Impermeable Reservoir Fracturing
   * RM 207,000 FRGS 2023-1: Ongoing, 2024–2026
+  * ![IMG_7560](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/355e9771-f425-48e0-a9f8-3ad37ee6ca50)
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/355e9771-f425-48e0-a9f8-3ad37ee6ca50" align="right" width="30%" height=" 30%"/>
 
 ## Research Grant Participatory
 **Grad. Research Assistant;**
