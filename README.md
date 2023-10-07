@@ -14,6 +14,13 @@ My focuses are on text-image-driven Machine Learning and fluid simulation progno
 
 [Drilling & Completions](https://www.sciencedirect.com/search?qs=Drilling%20and%20completion%20), [Hydraulic Fracturing](https://www.sciencedirect.com/search?qs=Hydraulic%20Fracturing), [Matrix Acidizing](https://www.sciencedirect.com/search?qs=Matrix%20Acidizing), [Carbon Capture](https://www.sciencedirect.com/search?qs=Carbon%20Capture), [Hydrogen Production, and Storage](https://www.sciencedirect.com/search?qs=Hydrogen%20Production).
 
+- Chemical Processes, Crude oil assays, blends and characterisation simulations and modeling.
+- Petroleum Drilling & Completions Optimization 
+- Proppants and Drilling Fluid Formulations
+- Heterogeneous Reservoir Fracking
+- Carbon Capture in industrial systems and reservoirs
+- Hydrogen Production and Storage Modelling 
+
 **Skill**
 
 CMG • Pipesim • ANSYS CFX • Discrete Element Method • Partial Differential Equations • Aspen HYSYS • Aspen Plus • TensorFlow Developer • Dynamic Mode Decomposition •
