@@ -20,10 +20,12 @@ CMG • Pipesim • ANSYS CFX • Discrete Element Method • Partial Differenti
 Optimization (Mathematical Programming)
 
 ## Education
+- LLM Student*, International Oil and Gas Law and Policy, [University of Dundee](https://www.dundee.ac.uk/), Scotland, 2025
 - PhD Student, Chemical Engineering, [Universiti Malaysia Pahang Al-Sultan Abdullah](https://www.ump.edu.my/en), 2026
-- MSc, Petroleum Engineering, [Nazarbayev University](https://nu.edu.kz/), 2022
-- BSc, Petroleum Engineering, [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/), 2019
-- HND, Mechanical Engineering, [Tamale Technical University](https://tatu.edu.gh/hnd-programmes/), 2014
+- PhD Student*, Petroleum Engineering, [University of North Dakota](https://und.edu/), USA, 2028
+- MSc, Petroleum Engineering, [Nazarbayev University](https://nu.edu.kz/), Kazakhstan, 2022
+- BSc, Petroleum Engineering, [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/), Ghana, 2019
+- HND, Mechanical Engineering, [Tamale Technical University](https://tatu.edu.gh/hnd-programmes/), Ghana, 2014
 
 ## Teaching Activity
 Coming soon...
