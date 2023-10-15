@@ -17,7 +17,7 @@ My focuses are on text-image-driven Machine Learning and fluid simulation progno
 - Chemical Processes, Crude oil assays, blends and characterisation simulations and modeling.
 - Petroleum Drilling & Completions Optimization 
 - Proppants and Drilling Fluid Formulations
-- Heterogeneous Reservoir Fracking and Marrix Acidizing
+- Heterogeneous Reservoir Fracking and Matrix Acidizing
 - Carbon Capture in industrial systems and reservoirs
 - Hydrogen Production and Storage Modelling 
 
