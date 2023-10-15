@@ -17,7 +17,7 @@ My focuses are on text-image-driven Machine Learning and fluid simulation progno
 - Chemical Processes, Crude oil assays, blends and characterisation simulations and modeling.
 - Petroleum Drilling & Completions Optimization 
 - Proppants and Drilling Fluid Formulations
-- Heterogeneous Reservoir Fracking
+- Heterogeneous Reservoir Fracking and Marrix Acidizing
 - Carbon Capture in industrial systems and reservoirs
 - Hydrogen Production and Storage Modelling 
 
@@ -27,9 +27,9 @@ CMG • Pipesim • ANSYS CFX • Discrete Element Method • Partial Differenti
 Optimization (Mathematical Programming)
 
 ## Education
-- LLM Student*, International Oil and Gas Law and Policy, [University of Dundee](https://www.dundee.ac.uk/), Scotland, 2025
-- PhD Student, Chemical Engineering, [Universiti Malaysia Pahang Al-Sultan Abdullah](https://www.ump.edu.my/en), 2026
 - PhD Student*, Petroleum Engineering, [University of North Dakota](https://und.edu/), USA, 2028
+- PhD Student, Chemical Engineering, [Universiti Malaysia Pahang Al-Sultan Abdullah](https://www.ump.edu.my/en), 2026
+- LLM Student*, International Oil and Gas Law and Policy, [University of Dundee](https://www.dundee.ac.uk/), Scotland, 2025
 - MSc, Petroleum Engineering, [Nazarbayev University](https://nu.edu.kz/), Kazakhstan, 2022
 - BSc, Petroleum Engineering, [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/), Ghana, 2019
 - HND, Mechanical Engineering, [Tamale Technical University](https://tatu.edu.gh/hnd-programmes/), Ghana, 2014
