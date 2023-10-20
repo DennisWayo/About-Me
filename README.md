@@ -85,19 +85,6 @@ Coming soon...
 | <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018"/> | <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018"/> |
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![Google Scholar](https://i.stack.imgur.com/tskMh.png) Google Scholar](https://scholar.google.com/citations?user=YCXIi1wAAAAJ&hl=en&authuser=2)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DennisWayo)
-&nbsp;
-[![Scopus](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/84260c83-6659-4238-b587-849974dc3de5)
- Scopus](https://www.scopus.com/authid/detail.uri?authorId=57890228100)
-&nbsp;
-
-
-
-
 ## Contact
 * Phone: +77714140389
 * Email: iwayoden@gmail.com
