@@ -85,6 +85,9 @@ Coming soon...
 | <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018"/> | <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018"/> |
 
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 
 ## Contact
