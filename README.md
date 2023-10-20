@@ -87,11 +87,11 @@ Coming soon...
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![Google Scholar](https://i.stack.imgur.com/tskMh.png) Google Scholar](https://scholar.google.com/citations?user=YCXIi1wAAAAJ&hl=en&authuser=2)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DennisWayo)
 &nbsp;
-[![Scopus](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/585468a7-a856-4cc4-b877-90139afc78a7) Scopus](https://www.scopus.com/authid/detail.uri?authorId=57890228100)
+[![Scopus](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/2b18b114-f52b-4371-879a-9bf5023c5919) Scopus](https://www.scopus.com/authid/detail.uri?authorId=57890228100)
 
 
 
