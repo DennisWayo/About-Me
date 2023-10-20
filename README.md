@@ -91,8 +91,9 @@ Coming soon...
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/DennisWayo)
 &nbsp;
-[![Scopus](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/88cabdf6-2130-4704-be55-08bc702480ef)
+[![Scopus](https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/461a34e6-4ed9-4171-acac-087f4aab87d5)
  Scopus](https://www.scopus.com/authid/detail.uri?authorId=57890228100)
+
 
 
 
