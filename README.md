@@ -62,6 +62,7 @@ Coming soon...
 
 ## Publications
 <sup>*</sup> Corresponding Author
+
 **2023**
 - **D. D. K. Wayo**, S. Irawan, A. Satyanaga, and J. Kim, “Data-Driven Fracture Morphology Prognosis from High Pressured Modified Proppants Based on Stochastic-Adam-RMSprop Optimizers; tf.NNR Study,” Big Data and Cognitive Computing, vol. 7, no. 2, **2023**, [https://doi.org/10.3390/bdcc7020057](https://doi.org/10.3390/bdcc7020057) **(Q1, IF = 3.7, Top 20%)**
 - **D. D. K. Wayo**, S. Irawan, A. Satyanaga, and G. Abbas, “Modelling and Simulating Eulerian Venturi Effect of SBM to Increase the Rate of Penetration with Roller Cone Drilling Bit,” Energies (Basel), vol. 16, no. 10, p. 4185, May **2023**, [https://doi.org/10.3390/en16104185](https://doi.org/10.3390/en16104185) **(Q1, IF = 3.2, Top 20%)**
