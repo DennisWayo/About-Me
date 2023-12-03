@@ -70,8 +70,8 @@ Coming soon...
 
 **2022**
 -  **D. D. K. Wayo**<sup>*</sup>, S. Irawan, M. Z. bin Mohamad Noor, F. Badrouchi, J. A. Khan, and U. I. Duru, “A CFD Validation Effect of YP / PV from Laboratory-Formulated SBMDIF for Productive Transport Load to the Surface,” Symmetry, vol. 14, no. 11, p. 17, **2022**, [https://doi.org/10.3390/sym14112300](https://doi.org/10.3390/sym14112300) **(Q1, IF = 2.7, Top 10%)**
-- **D. D. K. Wayo**<sup>*</sup>, S. Irawan, J. A. Khan, and F. Fitrianti, “CFD Validation for Assessing the Repercussions of Filter Cake Breakers; EDTA and SiO2 on Filter Cake Return Permeability,” Applied Artificial Intelligence, vol. 36, no. 1, **2022**, [https://doi.org/10.1080/08839514.2022.2112551](https://doi.org/10.1080/08839514.2022.2112551) **(Q2, IF = 2.1)**
-- U. I. Duru, **D. D. K. Wayo**, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, **2022**, [Online]. Available: [http://transylvanianreviewjournal.com/index.php/TR/article/view/907](http://transylvanianreviewjournal.com/index.php/TR/article/view/907) **(Q2, IF = 2.3)**
+- **D. D. K. Wayo**<sup>*</sup>, S. Irawan, J. A. Khan, and F. Fitrianti, “CFD Validation for Assessing the Repercussions of Filter Cake Breakers; EDTA and SiO2 on Filter Cake Return Permeability,” Applied Artificial Intelligence, vol. 36, no. 1, **2022**, [https://doi.org/10.1080/08839514.2022.2112551](https://doi.org/10.1080/08839514.2022.2112551) **(Q2, IF = 2.86)**
+- U. I. Duru, **D. D. K. Wayo**, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, **2022**, [Online]. Available: [http://transylvanianreviewjournal.com/index.php/TR/article/view/907](http://transylvanianreviewjournal.com/index.php/TR/article/view/907) **(Q2, IF = 0.155)**
 
 ### Multiphase | Multiphysics | Multiscale
 
