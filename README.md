@@ -1,4 +1,4 @@
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" width="30%" height=" 30%"/>
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" width="40%" height=" 40%"/>
 
 
 
@@ -28,7 +28,7 @@ Optimization (Mathematical Programming)
 
 ## Education
 - PhD Student*, Petroleum Engineering, [University of North Dakota](https://und.edu/), USA, 2028
-- PhD Student, Chemical Engineering, [Universiti Malaysia Pahang Al-Sultan Abdullah](https://www.ump.edu.my/en), 2026
+- PhD Student, Chemical Engineering, [Universiti Malaysia Pahang Al-Sultan Abdullah](https://www.ump.edu.my/en), Malaysia, 2026
 - LLM Student*, International Oil and Gas Law and Policy, [University of Dundee](https://www.dundee.ac.uk/), Scotland, 2025
 - MSc, Petroleum Engineering, [Nazarbayev University](https://nu.edu.kz/), Kazakhstan, 2022
 - BSc, Petroleum Engineering, [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/), Ghana, 2019
@@ -74,7 +74,7 @@ Coming soon...
 - U. I. Duru, **D. D. K. Wayo**, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, **2022**, [Online]. Available: [http://transylvanianreviewjournal.com/index.php/TR/article/view/907](http://transylvanianreviewjournal.com/index.php/TR/article/view/907) **(Q2, IF = 0.155)**
 
 ### Multiphase | Multiphysics | Multiscale
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/b2b256cc-6f13-4fb8-a8c7-5c8b37ca8929" width="70%" height=" 70%"/>
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/b2b256cc-6f13-4fb8-a8c7-5c8b37ca8929" width="80%" height=" 80%"/>
 
 
 ## Contact
