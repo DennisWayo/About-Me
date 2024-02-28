@@ -1,4 +1,4 @@
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" width="40%" height=" 40%"/>
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" width="30%" height=" 30%"/>
 
 
 
@@ -74,14 +74,7 @@ Coming soon...
 - U. I. Duru, **D. D. K. Wayo**, R. Oguh, C. Cyril, and H. Nnani, “Computational Analysis for Optimum Multiphase Flowing Bottom-Hole Pressure Prediction,” Transylvanian Review, vol. 30, no. 2, **2022**, [Online]. Available: [http://transylvanianreviewjournal.com/index.php/TR/article/view/907](http://transylvanianreviewjournal.com/index.php/TR/article/view/907) **(Q2, IF = 0.155)**
 
 ### Multiphase | Multiphysics | Multiscale
-
-| wayo pics               | Dela pics               |
-| ---------------------- | ---------------------- |
-| <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018"/> | <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018"/> |
-
-| wayo pics2               | Dela pics2               |
-| ---------------------- | ---------------------- |
-| <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018"/> | <img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/fba2028c-0259-4175-989a-3b0cdc808018"/> |
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/b2b256cc-6f13-4fb8-a8c7-5c8b37ca8929" width="70%" height=" 70%"/>
 
 
 ## Contact
