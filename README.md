@@ -1,5 +1,4 @@
-<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/da2f4043-ff56-496c-a3a0-12078a6768f3" width="40%" height=" 40%"/>
-
+<img src="https://github.com/DennisWayo/denniswayo.github.io/assets/117969019/ce56ff9f-434b-4692-88da-55bd3ed2675f" width="40%" height=" 40%"/>
 
 
 # Dennis Wayo
